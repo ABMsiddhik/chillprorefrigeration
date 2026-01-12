@@ -1,5 +1,5 @@
  /* --------------------------------------------------
-  * © Copyright 2025 - CoolAir by Designesia
+  * © Copyright 2025 - chillpro
   * --------------------------------------------------*/
 (function($) {
 	'use strict';
