@@ -75,7 +75,7 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 document.addEventListener('DOMContentLoaded', function () {
     // WhatsApp number - REPLACE WITH YOUR ACTUAL NUMBER
-    const whatsappNumber = '1234567890'; // Format: countrycode + number (without + or 0)
+    const whatsappNumber = '918508579048'; // Format: countrycode + number (without + or 0)
 
     // Get all enquiry buttons
     const enquiryButtons = document.querySelectorAll('.whatsapp-enquiry-btn');
