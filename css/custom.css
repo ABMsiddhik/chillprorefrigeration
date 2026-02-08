@@ -87,6 +87,12 @@
 .scroll-progress-btn:hover .progress-arrow {
     transform: translateY(-2px);
 }
+.progress-arrow {
+    width: 24px;   
+    height: 34px;  
+    fill: white;
+}
+
 
 /* Responsive */
 @media (max-width: 768px) {
